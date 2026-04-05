@@ -2,7 +2,7 @@
 
 Quizgen is a dynamic web application designed to create, manage, and master quizzes effortlessly. It is a multi-user app (one requires an administrator and other users) that acts as an exam preparation site for multiple courses.
 
-[![Demo Video](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/16PTD8y75gmB-HCmemrKdMZSep47nk59_/view?usp=sharing)
+[![Demo Video](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1Vzc70hg-scBJsUohJ9LkHu4XZgbprGRk/view?usp=sharing)
 
 ![Screenshot 2025-04-24 at 1 48 37 AM](https://github.com/user-attachments/assets/78e2a35c-574f-462a-acf6-3747d712e944)
 
